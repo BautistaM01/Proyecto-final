@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Control Doméstico</string>
+    <string name="msg_token_fmt">Token: %1$s</string>
+    <string name="cerrado">cerrado</string>
+    <string name="abierto">abierto</string>
+    <string name="encendido">encendido</string>
+    <string name="apagado">apagado</string>
+</resources>
